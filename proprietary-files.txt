@@ -1,0 +1,89 @@
+
+# Audio
+
+# Camera
+
+# DRM
+
+# DRM-Hardware
+-boot/ramdisk/vendor/etc/vintf/manifest/manifest_android.hardware.drm@1.4-service.clearkey.xml
+-boot/ramdisk/vendor/etc/vintf/manifest/manifest_android.hardware.drm@1.4-service.widevine.xml
+
+# Display-Hardware
+
+# GPS
+
+# GPS-Hardware
+
+# Graphics
+
+# Health
+-boot/ramdisk/vendor/etc/vintf/manifest/android.hardware.health@2.1.xml
+
+# Listen
+
+# Media
+
+# Media-Hardware
+
+# Mediatek
+-boot/ramdisk/vendor/etc/vintf/manifest/android.hardware.usb@1.2-service-mediatekv2.xml
+
+# Neural-networks
+-boot/ramdisk/vendor/etc/vintf/manifest/android.hardware.neuralnetworks@1.3-service-mtk-gpu.xml
+
+# Perf
+
+# Postprocessing
+
+# QMI
+
+# Radio
+
+# Sensors
+
+# Soter
+-boot/ramdisk/vendor/etc/vintf/manifest/manifest_soter.xml
+
+# Time
+
+# Vibrator
+-boot/ramdisk/vendor/etc/vintf/manifest/vibrator-mtk-default.xml
+
+# WiFi
+-boot/ramdisk/vendor/etc/vintf/manifest/android.hardware.wifi.hostapd.xml
+-boot/ramdisk/vendor/etc/vintf/manifest/android.hardware.wifi.supplicant.xml
+-boot/ramdisk/vendor/etc/vintf/manifest/android.hardware.wifi@1.0-service.xml
+
+# rootdir
+
+# Misc
+boot/ramdisk/vendor/app/mcRegistry/020f0000000000000000000000000000.drbin
+boot/ramdisk/vendor/app/mcRegistry/020f0000000000000000000000000000.tlbin
+boot/ramdisk/vendor/app/mcRegistry/05120000000000000000000000000000.drbin
+boot/ramdisk/vendor/app/mcRegistry/05120000000000000000000000000000.tlbin
+boot/ramdisk/vendor/app/mcRegistry/05120000000000000000000000000001.drbin
+boot/ramdisk/vendor/app/mcRegistry/05120000000000000000000000000001.tlbin
+boot/ramdisk/vendor/app/mcRegistry/06090000000000000000000000000000.drbin
+boot/ramdisk/vendor/app/mcRegistry/06090000000000000000000000000000.tlbin
+boot/ramdisk/vendor/app/mcRegistry/0706000000000000000000000000004d.tlbin
+boot/ramdisk/vendor/app/mcRegistry/07061000000000000000000000000000.tlbin
+boot/ramdisk/vendor/app/mcRegistry/07150000000000000000000000000000.drbin
+boot/ramdisk/vendor/app/mcRegistry/07150000000000000000000000000000.tlbin
+boot/ramdisk/vendor/app/mcRegistry/07170000000000000000000000000000.drbin
+boot/ramdisk/vendor/app/mcRegistry/07170000000000000000000000000000.tlbin
+boot/ramdisk/vendor/app/mcRegistry/08030000000000000000000000000000.tabin
+boot/ramdisk/vendor/app/mcRegistry/08040000000000000000000000003419.tabin
+boot/ramdisk/vendor/app/mcRegistry/08050000000000000000000000003419.drbin
+boot/ramdisk/vendor/app/mcRegistry/08050000000000000000000000003419.tlbin
+boot/ramdisk/vendor/app/mcRegistry/08110000000000000000000000000000.tabin
+boot/ramdisk/vendor/app/mcRegistry/40188311faf343488db888ad39496f9a.drbin
+boot/ramdisk/vendor/app/mcRegistry/40188311faf343488db888ad39496f9a.tlbin
+boot/ramdisk/vendor/app/mcRegistry/5020170115e016302017012521300000.drbin
+boot/ramdisk/vendor/app/mcRegistry/5020170115e016302017012521300000.tlbin
+boot/ramdisk/vendor/app/mcRegistry/abcd270ea5c44c58bcd3384a2fa2539e.tabin
+boot/ramdisk/vendor/app/mcRegistry/e97c270ea5c44c58bcd3384a2fa2539e.tabin
+boot/ramdisk/vendor/bin/mcDriverDaemon
+boot/ramdisk/vendor/bin/vndservice
+boot/ramdisk/vendor/bin/vndservicemanager
+boot/ramdisk/vendor/build.prop
